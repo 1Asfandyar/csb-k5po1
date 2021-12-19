@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://1asfandyar.github.io/csb-k5po1/static/css/main.693d3db1.chunk.css",
+    "main.js": "https://1asfandyar.github.io/csb-k5po1/static/js/main.94d35fa1.chunk.js",
+    "main.js.map": "https://1asfandyar.github.io/csb-k5po1/static/js/main.94d35fa1.chunk.js.map",
+    "runtime-main.js": "https://1asfandyar.github.io/csb-k5po1/static/js/runtime-main.6dff734a.js",
+    "runtime-main.js.map": "https://1asfandyar.github.io/csb-k5po1/static/js/runtime-main.6dff734a.js.map",
+    "static/js/2.dab14339.chunk.js": "https://1asfandyar.github.io/csb-k5po1/static/js/2.dab14339.chunk.js",
+    "static/js/2.dab14339.chunk.js.map": "https://1asfandyar.github.io/csb-k5po1/static/js/2.dab14339.chunk.js.map",
+    "index.html": "https://1asfandyar.github.io/csb-k5po1/index.html",
+    "static/css/main.693d3db1.chunk.css.map": "https://1asfandyar.github.io/csb-k5po1/static/css/main.693d3db1.chunk.css.map",
+    "static/js/2.dab14339.chunk.js.LICENSE.txt": "https://1asfandyar.github.io/csb-k5po1/static/js/2.dab14339.chunk.js.LICENSE.txt",
+    "static/media/cover.8226186e.jpg": "https://1asfandyar.github.io/csb-k5po1/static/media/cover.8226186e.jpg",
+    "static/media/logo-dark.1ce5ccee.png": "https://1asfandyar.github.io/csb-k5po1/static/media/logo-dark.1ce5ccee.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6dff734a.js",
+    "static/js/2.dab14339.chunk.js",
+    "static/css/main.693d3db1.chunk.css",
+    "static/js/main.94d35fa1.chunk.js"
+  ]
+}
